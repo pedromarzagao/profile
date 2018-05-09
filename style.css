@@ -138,6 +138,7 @@ th {
 .column-image {
   width: 20%;
   vertical-align: text-top;
+  font-size: 12px;
 }
 
 /* ------ TAGS --------- */
