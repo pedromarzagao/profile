@@ -1,3 +1,14 @@
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+#page-content {
+  margin-left: 300px;
+}
+
 body {
     font-family: 'Exo 2', sans-serif;
     font-weight: 400 !important;
