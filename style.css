@@ -1,12 +1,13 @@
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 60px;
   left: 0;
   top: 0;
   bottom: 0;
+  background-color: rgb(120, 120, 120);
 }
 #page-content {
-  margin-left: 300px;
+  margin-left: 60px;
 }
 
 body {
